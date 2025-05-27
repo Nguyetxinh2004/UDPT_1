@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig">
+    <option name="reLastEntityCreationPackage" value="payment-service/src/main/java/space/example/paymentservice/entity" />
+    <option name="reverseEngineeringLastDbConnectionId" value="7402f21d-9757-4ae2-ad4e-ba5f3ef82413__payment_service_db" />
+  </component>
+</project>
